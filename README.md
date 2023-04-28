@@ -1,5 +1,7 @@
 # Instructions
-Please login with username: "user" and password "password" when prompted
+1. Run QuoteApplicationt to start server
+2. Use one of the requests below
+3. Login with username: "user" and password "password" when prompted
 # Requests getting latest quote:
 - http://localhost:8080/symbols/FB/quotes/latest
 - http://localhost:8080/symbols/MSFT/quotes/latest
